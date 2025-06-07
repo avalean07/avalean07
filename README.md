@@ -1,4 +1,4 @@
-Hi everyone, Andrei here! I am a CS major at Construcotr University in Bremen. Please take a look at my projects!
+Hi guys! Check out my proejcts!
 
 <!---
 avalean07/avalean07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
